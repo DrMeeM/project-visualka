@@ -1,0 +1,4 @@
+repository "AssWeCan@Manuls_Vpered@cloud"
+  path "/"
+    br "/main"
+    co "/main"

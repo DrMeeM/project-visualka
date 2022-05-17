@@ -1,0 +1,142 @@
+<dialogue>
+  <node tochar ="0">
+    <npctext>Как тебе мой Cock?</npctext>
+    <answers>
+      <answer tonode="1">
+        <text> Nice! </text>
+      </answer>
+      <answer tonode="1">
+        <text> Fat Cock! </text>
+      </answer>
+      <answer tonode="1">
+        <text> It's so fucking deep! </text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="1">
+    <npctext> Поищи вещи по лаборатории, люди покидали это место в спешке, может и обранили чего? </npctext>
+    <answers>
+      <answer tonode="2">
+        <text> 1Хорошо, поищу. Спасибо! </text>
+      </answer>
+      <answer tonode="3">
+        <text> 2Ладно, поищу. Спасибо! </text>
+      </answer>
+      <answer tonode="4">
+        <text> 3Ок, поищу. Спасибо! </text>
+      </answer>
+      <answer tonode="5">
+        <text> 4Эх, поищу. Спасибо! </text>
+      </answer>
+      <answer tonode="6">
+        <text> 5Fuck </text>
+      </answer>
+      <answer tonode="7">
+        <text> 6YOU </text>
+      </answer>
+      <answer tonode="8">
+        <text> 7YOU </text>
+      </answer>
+      <answer tonode="9">
+        <text> 8YOU </text>
+      </answer>
+      <answer tonode="10">
+        <text> 9YOU </text>
+      </answer>
+      <answer tonode="11">
+        <text> 10YOU </text>
+      </answer>
+      <answer tonode="12">
+        <text> 11YOU </text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока1 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока2 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока3 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока4 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока5 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока6 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока7 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока8 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока9 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока10 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="2">
+    <npctext> Пока11 </npctext>
+    <answers>
+      <answer tonode ="1">
+        <text> К вопросам</text>
+      </answer>
+    </answers>
+  </node>
+</dialogue>

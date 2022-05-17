@@ -1,0 +1,81 @@
+<dialogue more ="0">
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Я вошел в комнату. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Внутри была раздевалка. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Возле стен рядами стояли шкафчики. Все они были заперты. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Видимо, учёные убежали отсюда в спешке, и даже не успели забрать свои вещи. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Может быть, ключ подойдет к одному из шкафчиков? </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> На ключе номер 16. Логично, что он от шкафчика с номером 16. </npctext>
+	<answers>
+      <answer tonode="6" actquestA="1000" numquestA="1000" posofquestA="1000">
+        <text> 1. Подойти к ящику и открыть его </text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> 13... 14... 15... 16. Вот и нужный шкафчик. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Я просунул ключ в замочную скважину. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Ключ подошёл! Дверца открылась. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Внутри лежали вещи, судя по всему - мои. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Среди них комплект одежды и рюкзак. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Лучше переодеться в нормальную одежду перед выходом. </npctext>
+	<answers>
+      <answer tonode="12" actquestA="1000" numquestA="1000" posofquestA="1000">
+        <text> 1. Переодеться. </text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Да, так намного лучше и удобнее. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Теперь можно спокойно выбраться отсюда, не получая лишних вопросов. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Я достал из шкафчика рюкзак. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Он был пуст. На дне лежала лишь пустая тетрадь и записка. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Энтони, надеюсь, что ты прочитаешь эту записку. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Когда выберешься, свяжись со мной. – М. Х. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Понятно только то, что ничего не понятно. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Я сложил ненужный уже комбинезон в шкафчик, достал из него рюкзак и закрыл дверцу. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Ключей от других шкафчиков у меня нет, а открыть их без ключа я не смогу.  </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Больше здесь делать нечего. </npctext>
+  </node>
+  
+  
+</dialogue>
+

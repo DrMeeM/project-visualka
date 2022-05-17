@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BG_Mus_Vol_Tag_Slider
+  - BG_Mus_Vol_Tag_Text
+  - Audiosssss
+  - MainMap
+  - Map
+  - QuestPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - TileMap
+  - Water
+  - UI
+  - UI_menu
+  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: back_Ui
+    uniqueID: 193337531
+    locked: 0
+  - name: interior
+    uniqueID: 2328322187
+    locked: 0
+  - name: characters
+    uniqueID: 2646296841
+    locked: 0
+  - name: New Layer
+    uniqueID: 3395573963
+    locked: 0
+  - name: Map elements
+    uniqueID: 277170351
+    locked: 0
+  - name: UI ramka
+    uniqueID: 1265221387
+    locked: 0
+  - name: UI_menu
+    uniqueID: 280207105
+    locked: 0
+  - name: Map
+    uniqueID: 201719247
+    locked: 0

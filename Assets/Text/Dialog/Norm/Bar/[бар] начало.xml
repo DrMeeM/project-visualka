@@ -1,0 +1,25 @@
+<dialogue more ="0">
+  <node tochar ="0" actquest="1000" numquest="0" posofquest="0">
+    <npctext> Лифт добрался до своего места назначения, его дверь открылась. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="0" posofquest="1">
+    <npctext> Удивительно, что лифт выдержал. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Эти ужасные звуки скрипа явно намекали на то, что лифту недолго осталось. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Но, я добрался, теперь надо понять, куда. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Передо мной была небольшая комната с дверью. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Где я? Это действительно выход, а не еще один уровень этой лаборатории? </npctext>
+  </node>
+  <node tochar ="0" actquest="1" numquest="1000" posofquest="1000">
+    <npctext> Единственный способ узнать - открыть дверь. </npctext>
+  </node>
+  
+</dialogue>
+

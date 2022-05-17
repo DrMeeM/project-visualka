@@ -1,0 +1,44 @@
+<dialogue more ="0">
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Какой-то странный коридор... </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Все еще никого. Может, ученые уснули? </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Эм... ЗДЕСЬ КТО-НИБУДЬ ЕСТЬ? </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Никого. Да и вряд ли они спят с таким-то звуковым сопровождением. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Внимание! </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Обнаружен перебой электропитания! </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Произведен переход на резервные генераторы! </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Всему персоналу комплекса рекомендуется покинуть комплекс! </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Тут какие-то двери. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Три справа, одна слева и одна в конце коридора. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Еще коридор уходит влево. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Один из этих проходов должен быть выходом. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Но для начала нужно понять, что это за место и как я здесь оказался. </npctext>
+  </node>
+  
+  
+</dialogue>
+

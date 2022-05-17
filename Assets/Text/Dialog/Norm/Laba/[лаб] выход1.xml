@@ -1,0 +1,10 @@
+<dialogue more ="1"> 
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Я здесь еще не всё осмотрел. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Вдруг я что-то упустил? </npctext>
+  </node>
+  
+</dialogue>
+

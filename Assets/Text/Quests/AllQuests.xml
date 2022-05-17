@@ -1,0 +1,165 @@
+<quest>
+	<task kvest ="0" type ="0">
+		<name> Взрыв из прошлого </name>
+		<short> Понять что происходит </short>
+		<long> Я только что выбрался из какой-то камеры в какой-то лаборатории. И что делать дальше? </long>
+		<parameters>
+			<parameter kolvo ="0">
+				<text> Понять что происходит </text>
+			</parameter>
+			<parameter kolvo ="0">
+				<text> Выбраться </text>
+			</parameter>
+		</parameters>
+	</task>
+  <task kvest ="1" type ="0">
+    <name> Первый уровень </name>
+    <short> Понять что происходит </short>
+    <long> Я нашел выход из лаборатории и оказался в каком-то... баре? Нужно теперь понять, где я и что дальше делать </long>
+    <parameters>
+		<parameter kolvo ="0">
+			<text> Понять что происходит </text>
+		</parameter>
+	</parameters>
+  </task>
+  <task kvest ="2" type ="0">
+    <name> Солнечная прогулка </name>
+    <short> Добраться до полицейского отделения Автократии </short>
+    <long> После разговора с Оливером я понял, что он мне поможет. Вот только зачем это он делает? Приеду к нему и узнаю. </long>
+    <parameters>
+      <parameter kolvo ="0">
+        <text> Добраться до станции </text>
+      </parameter>
+      <parameter kolvo ="0">
+        <text> Добраться до полицейского отделения </text>
+      </parameter>
+      <parameter kolvo ="0">
+        <text> Найти кабинет Оливера </text>
+      </parameter>
+    </parameters>
+  </task>
+  <task kvest ="3" type ="0">
+    <name> Радио живёт </name>
+    <short> Передать посылку Кайлу Кёрку </short>
+    <long> Оливер сказал, что помогает мне не просто так. Это очень странно, но мне от этого хуже не будет. Но для начала помочь придется мне. Нужно отвезти какую-то посылку диджею на местную радиостанцию. </long>
+    <parameters>
+      <parameter kolvo ="0">
+        <text> Добраться до радиостанции </text>
+      </parameter>
+      <parameter kolvo ="0">
+        <text> Передать груз Кайлу </text>
+      </parameter>
+    </parameters>
+  </task>
+  <task kvest ="4" type ="0">
+    <name> Операция "Морячка" </name>
+    <short> Помочь Сэнди доставить груз </short>
+    <long> Как оказалось, попасть в 11 район не так уж и просто. К счастью, я смог найти нужного человека. Правда, мне придется на него поработать... </long>
+    <parameters>
+      <parameter kolvo ="0">
+        <text> Встретиться с Сэнди </text>
+      </parameter>
+      <parameter kolvo ="0">
+        <text> Попасть в порт </text>
+      </parameter>
+      <parameter kolvo ="0">
+        <text> Найти груз </text>
+      </parameter>
+      <parameter kolvo ="0">
+        <text> Решить проблему с охраной </text>
+      </parameter>
+	    <parameter kolvo ="0">
+        <text> Собрать груз </text>
+      </parameter>
+	    <parameter kolvo ="0">
+        <text> Покинуть порт </text>
+      </parameter>
+	    <parameter kolvo ="0">
+        <text> Доставить груз заказчику </text>
+      </parameter>
+    </parameters>
+  </task>
+  <task kvest ="5" type ="0">
+    <name> Вишнёвая ночь </name>
+    <short> Попасть в клуб и узнать больше информации о нашем положении </short>
+    <long> И вот, после небольшой, но пыльной работы, я смог попасть в самый крутой клуб Автократии: "Черри Гарден". Как мне сказал Кайл, именно через него проходит большинство слухов. Может быть и я что-то новое узнаю? </long>
+    <parameters>
+      <parameter kolvo ="0">
+        <text> Добраться до 11 района </text>
+      </parameter>
+      <parameter kolvo ="0">
+        <text> Добраться до клуба </text>
+      </parameter>
+      <parameter kolvo ="0">
+        <text> Поговорить с барменшей </text>
+      </parameter>
+    </parameters>
+  </task>
+  <task kvest ="6" type ="1">
+    <name> Работа барменом I </name>
+    <short> Помочь Валери в делах "Черри Гардена" </short>
+    <long> Не ожидал, что придется работать барменом в ночном клубе, но что не сделаешь ради легких денег и человека, который знает всё в этом городе? </long>
+    <parameters>
+      <parameter kolvo ="5">
+        <text> Обслужить клиентов </text>
+      </parameter>
+      <parameter kolvo ="3">
+        <text> Сделать коктейли </text>
+      </parameter>
+	  <parameter kolvo ="0">
+        <text> Разнять дерущихся </text>
+      </parameter>
+	  <parameter kolvo ="0">
+        <text> Поговорить с Валери </text>
+      </parameter>
+    </parameters>
+  </task>
+  <task kvest ="7" type ="1">
+    <name> Работа барменом II </name>
+    <short> Подготовить "замену" бармену "Черри Гардена" </short>
+    <long> Валери купила для "Черри Гардена" синтета-бармена. И я вызвался его настроить. Я же так похож на программиста... </long>
+    <parameters>
+      <parameter kolvo ="0">
+        <text> Настроить синтета для работы барменом </text>
+      </parameter>
+      <parameter kolvo ="0">
+        <text> Протестировать работу синтета </text>
+      </parameter>
+	  <parameter kolvo ="0">
+        <text> Поговорить с Валери </text>
+      </parameter>
+    </parameters>
+  </task>
+  <task kvest ="8" type ="1">
+    <name> Работа барменом III </name>
+    <short> Доставить в "Черри Гарден" особо ценный груз </short>
+    <long> Поставки алкоголя в единственный легальный бар на всю Автократию - то еще удовольствие. Хорошо, что я знаю человека, который в этом шарит. </long>
+    <parameters>
+      <parameter kolvo ="0">
+        <text> Поговорить с Валери </text>
+      </parameter>
+      <parameter kolvo ="3">
+        <text> Поговорить с Сэнди о грузе </text>
+      </parameter>
+	  <parameter kolvo ="0">
+        <text> Забрать груз из порта </text>
+      </parameter>
+	  <parameter kolvo ="0">
+        <text> Доставить груз в Черри Гарден (в одиночку или с Сэнди) </text>
+      </parameter>
+	  <parameter kolvo ="0">
+        <text> Поговорить с Валери </text>
+      </parameter>
+    </parameters>
+  </task>
+  <task kvest ="9" type ="0">
+    <name> Принцесса в башне </name>
+    <short> Попасть к Первой Гражданке (этот квест будет висеть полигры кстати) </short>
+    <long> Судя по всему, ответы на мои вопросы сможет дать только один человек. Лидер этой страны. Первая Гражданка. Я не знаю, как попасть к ней и высказать ей всё. Но должен же быть способ... </long>
+    <parameters>
+      <parameter kolvo ="0">
+        <text> Попасть к Первой Гражданке </text>
+      </parameter>
+    </parameters>
+  </task>
+</quest>

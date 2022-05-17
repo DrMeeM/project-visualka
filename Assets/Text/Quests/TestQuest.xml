@@ -1,0 +1,82 @@
+<quest>
+	<task kvest ="0" type ="0">
+		<name> Хохлодырка </name>
+		<short> Помочь сдохнуть матери хохлодырки опонента </short>
+		<long> 1После невероятного осокрбления, нанесенного одним мудаком, моя жопа конкретно сгорела. Вычислив местонахождение врага, я решил отомстить. Нужно добить сдыхающую мать хохлодырку. </long>
+		<parameters>
+			<parameter kolvo ="0">
+				<text> Ебнуть по ебалу </text>
+			</parameter>
+			<parameter kolvo ="2">
+				<text> Выебать в очко </text>
+			</parameter>
+			<parameter kolvo ="3">
+				<text> Помочь спарится с обезьяной </text>
+			</parameter>
+		</parameters>
+	</task>
+  <task kvest ="1" type ="1">
+    <name> Хохлодырка2 </name>
+    <short> Помочь сдохнуть матери хохлодырки опонента </short>
+    <long> 2После невероятного осокрбления, нанесенного одним мудаком, моя жопа конкретно сгорела. Вычислив местонахождение врага, я решил отомстить. Нужно добить сдыхающую мать хохлодырку. </long>
+    <parameters>
+      <parameter kolvo ="3">
+        <text> Ебнуть по ебалу </text>
+      </parameter>
+      <parameter kolvo ="2">
+        <text> Выебать в очко </text>
+      </parameter>
+      <parameter kolvo ="1">
+        <text> Помочь спарится с обезьяной </text>
+      </parameter>
+    </parameters>
+  </task>
+  <task kvest ="2" type ="1">
+    <name> Хохлодырка3 </name>
+    <short> Помочь сдохнуть матери хохлодырки опонента </short>
+    <long> 3После невероятного осокрбления, нанесенного одним мудаком, моя жопа конкретно сгорела. Вычислив местонахождение врага, я решил отомстить. Нужно добить сдыхающую мать хохлодырку. </long>
+    <parameters>
+      <parameter kolvo ="2">
+        <text> Ебнуть по ебалу </text>
+      </parameter>
+      <parameter kolvo ="3">
+        <text> Выебать в очко </text>
+      </parameter>
+      <parameter kolvo ="4">
+        <text> Помочь спарится с обезьяной </text>
+      </parameter>
+      <parameter kolvo ="1">
+        <text> Выебать в очко </text>
+      </parameter>
+    </parameters>
+  </task>
+  <task kvest ="3" type ="1">
+    <name> Хохлодырка4 </name>
+    <short> Помочь сдохнуть матери хохлодырки опонента </short>
+    <long> 4После невероятного осокрбления, нанесенного одним мудаком, моя жопа конкретно сгорела. Вычислив местонахождение врага, я решил отомстить. Нужно добить сдыхающую мать хохлодырку. </long>
+    <parameters>
+      <parameter kolvo ="4">
+        <text> Ебнуть по ебалу </text>
+      </parameter>
+      <parameter kolvo ="3">
+        <text> Выебать в очко </text>
+      </parameter>
+      <parameter kolvo ="2">
+        <text> Помочь спарится с обезьяной </text>
+      </parameter>
+    </parameters>
+  </task>
+  <task kvest ="4" type ="0">
+    <name> Хохлодырка5 </name>
+    <short> Помочь сдохнуть матери хохлодырки опонента </short>
+    <long> 6После невероятного осокрбления, нанесенного одним мудаком, моя жопа конкретно сгорела. Вычислив местонахождение врага, я решил отомстить. Нужно добить сдыхающую мать хохлодырку. </long>
+    <parameters>
+      <parameter kolvo ="0">
+        <text> Ебнуть по ебалу </text>
+      </parameter>
+      <parameter kolvo ="1">
+        <text> Выебать в очко </text>
+      </parameter>
+    </parameters>
+  </task>
+</quest>

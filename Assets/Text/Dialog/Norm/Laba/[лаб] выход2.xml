@@ -1,0 +1,34 @@
+<dialogue more ="0">
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Ну вот, пора выбираться отсюда. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Я свернул за угол и увидел лифт. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Вот он, мой путь на свободу! </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Я нажал на кнопку вызова лифта. Раздался громкий скрип. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Этот лифт явно не использовался долгие годы. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> А что если наверху ничего не осталось? </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Вряд ли, тогда бы ученые не стали сбегать отсюда. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Ладно, неважно. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Сейчас главное - выбраться из этой чертовой коробки. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Там, наверху, уже решу, что делать дальше. </npctext>
+  </node>
+
+</dialogue>
+

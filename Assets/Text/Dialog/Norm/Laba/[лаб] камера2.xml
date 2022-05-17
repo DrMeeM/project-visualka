@@ -1,0 +1,16 @@
+<dialogue more ="1">
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Очередная комната, очередная куча капсул. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Все пусты, все разбиты. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> На полу валяется разный мусор. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Больше ничего. </npctext>
+  </node>
+  
+</dialogue>
+

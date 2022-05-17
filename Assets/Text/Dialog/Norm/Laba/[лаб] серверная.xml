@@ -1,0 +1,227 @@
+<dialogue more ="0">
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Я вошел в комнату. В ней было что-то наподобие рабочей комнаты. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Здесь, судя по всему, ученые работали. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Но комната пустовала, а никаких ученых в ней и близко не было </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Более того, в комнате был настоящий погром: везде лежали пустые коробки, мебель была повалена, на полу валялись бумаги. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Что здесь произошло? </npctext>
+	<answers>
+      <answer tonode="5" actquestA="1000" numquestA="1000" posofquestA="1000">
+        <text> 1. Осмотреться. </text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Прямо возле входа был рубильник, отключавший сигнализацию. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Наконец-то можно избавиться от этих назойливых звуков! </npctext>
+	<answers>
+      <answer tonode="7" actquestA="1000" numquestA="1000" posofquestA="1000">
+        <text> 1. Выключить сигнализацию. </text>
+      </answer>
+	  <answer tonode="9" actquestA="1000" numquestA="1000" posofquestA="1000">
+        <text> 2. Не выключать. </text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Я дернул рубильник. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Сигнализация замолкла. </npctext>
+	<answers>
+      <answer tonode="12" actquestA="1000" numquestA="1000" posofquestA="1000">
+        <text> 1. Наконец-то! </text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="0">
+    <npctext> Внимание! Питание вновь поступило. </npctext>
+  </node>
+  <node tochar ="0">
+    <npctext> Переход на основной источник питания... завершён. </npctext>
+  </node>
+  <node tochar ="0">
+    <npctext> Сохраняйте спокойствие и продолжите работу. </npctext>
+	<answers>
+      <answer tonode="12" actquestA="1000" numquestA="1000" posofquestA="1000">
+        <text> 1. Ну ладно... </text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Теперь, когда сигнализация отключилась, можно внимательно осмотреть комнату. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Среди покрытого слоем пыли беспорядка явно выделялась яркая книжка. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Судя по всему, это дневник одного из ученых. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Неужели они уходили настолько в спешке, что забыли личные вещи? </npctext>
+	<answers>
+      <answer tonode="16" actquestA="1000" numquestA="1000" posofquestA="1000">
+        <text> 1. Подобрать дневник. </text>
+      </answer>
+    </answers>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Всё равно его хозяину уже наплевать на его содержимое... </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Внутри были результаты опытов, размышления, жизнь одного из ученых. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Казалось бы, ничего интересного. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Но на одной из последних страниц было описание чего-то... странного. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> 14/XI-21. Вечером к нам в лабораторию вломилась одна из наших главных «спонсоров», если так можно сказать. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Она, как и большинство из «спонсоров», не называла имени. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Но учитывая, что от нее нам поступали огромные деньги, мы не могли не запомнить её. Не знаю, почему, но мой друг Макс предложил называть её «Мисс Икс». </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Не думал, что она когда-нибудь воспользуется нашими услугами, ведь до старости ей еще далековато. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Но я, видимо, ошибался. Она чуть ли не на руках принесла нам какого-то парня. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Он был без сознания, и она сказала, что он чуть ли не при смерти.? </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Учитывая, что мы получаем от нее чеки каждый месяц, я не стал спрашивать ни о ее или его личности, ни о том, что с ним. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Она оставила лишь небольшое послание в наш адрес, где написала, что "если мы спасем ему жизнь и сохраним его на время её ухода в тень, то она нас озолотит". </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Вместе с посланием мы получили конверт с толстой пачкой денег. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Столько я бы не заработал и за всю жизнь работы научным сотрудником. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Мы поместили его в капсулу, и, будем надеяться, что он выживет. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Мисс Икс? Кто она? </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> И как её найти? Может дальше будет информация? </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Следующие записи были также описанием проведения опыта, на сей раз уже над человеком. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> 20/II-22. В ходе месяца работы в лаборатории мы смогли усовершенствовать и автоматизировать наши эксперименты.   </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Теперь капсулы работают полностью автономно и мы можем наконец-то перейти на восьмичасовой, пусть и посменный, рабочий день. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Тем временем Мисс Икс передала нам, что в ближайшие дни нам стоит быть осторожнее и по возможности не появляться на улице. К чему бы это? </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Я продолжил листать записи. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> И вот последняя их страница. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Может быть, она что-то прояснит? </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> 22/II-22. Этой ночью я с еще двумя учеными остался в лаборатории, и видимо не зря. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Сегодня утром из девяти ученых в лабораторию добрались только Магуайр и Хайнс. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Они дрожащим голосом говорят, что на улицах началась стрельба и посоветовали не выходить на поверхность. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Запасы еды у нас имеются, но я не понимаю, что происходит. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> 23/II-22. Весь вчерашний день мы отслеживали события на поверхности. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Доступ в интернет все еще есть, пусть и медленный. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Оказывается, там какой-то бунт. Отряды непонятных людей с оружием атаковали полицию и национальную гвардию по всему городу. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Нас в лаборатории осталось четверо, Моррис вышел наверх и так и не вернулся. Надеюсь, что с ним все хорошо. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> 24/II-22. Моррис все еще не вернулся.  </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> У нас отрубился интернет и мы лишились последнего канала связи с поверхностью.  </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> При этом сам канал не поврежден, основной сервер сверху получает пакеты. Это пугает. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Всё, что мы знаем, это то, что на поверхности началась настоящая война.  </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Запасы пищи пока не на исходе, но больше, чем на неделю, их не хватит. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> А сколько это продлится, одному Дарвину известно. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> 25/II-22. К нам поступило сообщение с терминала на первом этаже здания. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Какие-то люди, которые называют себя "Отрядами Граждан", сообщают, что знают про то, что мы скрываемся под землей, и что "по распоряжению Первой Гражданки мы должны освободить лабораторию". </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Они также обвинили нас в "декадентстве" и несли прочий бред, не поддающийся осмыслению и даже менее понятный, чем аргументы тех "активистов", кто выступал против наших опытов. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Конечно, мы могли бы засесть тут и не отвечать, но они могут спуститься вниз, а у нас нет оружия, в отличие от этих безумцев. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Связи с остальным миром у нас нет, ни с кем мы связаться не можем, и нам ничего не остается, кроме как подчиниться. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Надеюсь, что это не мой последний день жизни. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Отряды Граждан? Первая Гражданка? </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Еще больше вопросов и все еще нет ответов. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Единственный способ понять, что происходит – это выйти на поверхность. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Даже если там идёт война. </npctext>
+  </node>
+  <node tochar ="0" actquest="1000" numquest="1000" posofquest="1000">
+    <npctext> Потому что мне терять уже нечего. </npctext>
+  </node>
+
+</dialogue>
+
